@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/api/getData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/tab/Tab.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/tab/activityTab.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/Activity.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/ActivityList.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/InquireActivity.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/activitParticulars.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/activityRevise.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/cash.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/particularsSystem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/reward/systemList/reviseSystem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/router/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/config/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/approval/approval.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/rates/ra-creat.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/rates/ra-revise.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/rates/ra-rule.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/rates/ra-statistics.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/reward/exchangeList.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/reward/manual.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/Pages/reward/statistics.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../奖励机制/brm_v1/src/main.js" charset="UTF-8" />
+  </component>
+</project>
